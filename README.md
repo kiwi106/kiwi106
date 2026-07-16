@@ -1,16 +1,65 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kiwi106/kiwi106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Kiwi
 
-Here are some ideas to get you started:
+### Privacy • Cybersecurity • Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning by building.
+
+</div>
+
+---
+
+## About
+
+I'm a French student passionate about cybersecurity, Linux, networking and privacy.
+
+I enjoy understanding how systems work, exploring modern technologies and continuously improving my technical skills through hands-on projects.
+
+---
+
+## Areas of Interest
+
+- Cybersecurity
+- Privacy Engineering
+- Linux
+- Networking
+- DevOps
+- Self-Hosting
+- Open Source
+
+---
+
+## Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,bash,js,ts,html,css,linux,docker,git,github,postgres,nodejs,nextjs,react,tailwind,vscode" />
+</p>
+
+---
+
+## Currently Learning
+
+- Operating Systems
+- Network Security
+- Web Security
+- Cloud Infrastructure
+- Secure Software Development
+
+---
+
+## Philosophy
+
+> "Stay curious. Build. Learn. Improve."
+
+---
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=kiwi106&show_icons=true&theme=github_dark&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=kiwi106&theme=github-dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiwi106&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
