@@ -50,7 +50,7 @@ I enjoy understanding how systems work, exploring modern technologies and contin
 
 ## Philosophy
 
-> "Stay curious. Build. Learn. Improve."
+> "Tools evolve. Methods change. The objective remains the same."
 
 ---
 
